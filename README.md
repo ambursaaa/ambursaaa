@@ -26,7 +26,7 @@ I'm a passionate developer specializing in web development and software engineer
 
 ## Let's Connect
 
-- Portfolio: [ambursa.dev]((https://ambursaa.netlify.app/))
+- Portfolio: [ambursa.dev](https://ambursaa.netlify.app/)
 - LinkedIn: [linkedin.com/in/ambursaaa](https://www.linkedin.com/in/ambursaaa/)
 - Twitter/X: [@aambursaa](https://x.com/aambursaa)
 - Email: [info@ambursa.dev](mailto:info@ambursa.dev)
