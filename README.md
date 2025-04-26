@@ -6,7 +6,7 @@ I'm a passionate developer specializing in web development and software engineer
 
 ## Tech Stack & Tools
 
-- Languages: JavaScript, TypeScript, Python, PHP, C#
+- Languages: JavaScript, TypeScript, 
 - Frontend: React, Vue.js, Next.js, Tailwind CSS, HTML/CSS
 - Backend: Node.js, Express, Laravel, Django, .NET
 - Databases: PostgreSQL, MySQL, MongoDB, Firebase
