@@ -18,7 +18,7 @@ I'm a passionate developer specializing in web development and software engineer
 ## Projects I'm Proud Of
 
 - [Task Manager](#) — A clean and intuitive app for managing tasks and boosting productivity.
-- [Admin Dashboard]((https://adminda.netlify.app/login)) — A fully responsive admin panel with analytics, user management, and more.
+- [Admin Dashboard](https://adminda.netlify.app/login)) — A fully responsive admin panel with analytics, user management, and more.
 - [Ecommerce Website](https://fitgearr.netlify.app/) A modern storefront for fitness products with cart, checkout, and payment integration.
 
 
