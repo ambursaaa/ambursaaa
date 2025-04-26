@@ -6,12 +6,12 @@ I'm a passionate developer specializing in web development and software engineer
 
 ## Tech Stack & Tools
 
-- Languages: JavaScript, TypeScript, 
+- Languages: JavaScript, TypeScript
 - Frontend: React, Vue.js, Next.js, Tailwind CSS, HTML/CSS
-- Backend: Node.js, Express, Laravel, Django, .NET
+- Backend: Node.js, Express
 - Databases: PostgreSQL, MySQL, MongoDB, Firebase
 - DevOps: Docker, GitHub Actions, CI/CD, Linux
-- Cloud & Hosting: AWS, Vercel, Heroku, DigitalOcean
+- Cloud & Hosting: AWS, Vercel, Netlify
 
 ---
 
