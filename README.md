@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Ambursa — Full-Stack Web & Software Developer
+# Hello, I'm Faisal Ambursa — Full-Stack Web & Software Developer
 
 I'm a passionate developer specializing in web development and software engineering, with a love for building clean, scalable, and user-focused digital experiences.
 
