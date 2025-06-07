@@ -1,42 +1,47 @@
-# Hello, I'm Faisal Ambursa — Full-Stack Web & Software Developer
+# Muhammad Ambursa
 
-I'm a passionate developer specializing in web development and software engineering, with a love for building clean, scalable, and user-focused digital experiences.
+Blockchain Developer | Smart Contract Engineer | Web3 Builder
+
+I’m a developer focused on building secure, decentralized applications and contributing to the future of Web3. My expertise lies in smart contract development, dApp architecture, and integrating blockchain with real-world use cases.
 
 ---
 
 ## Tech Stack & Tools
 
-- Languages: JavaScript, TypeScript
-- Frontend: React, Vue.js, Next.js, Tailwind CSS, HTML/CSS
-- Backend: Node.js, Express
-- Databases: PostgreSQL, MySQL, MongoDB, Firebase
-- DevOps: Docker, GitHub Actions, CI/CD, Linux
-- Cloud & Hosting: AWS, Vercel, Netlify
+**Languages:** Solidity, JavaScript, TypeScript, Rust  
+**Smart Contract Development:** Hardhat, Foundry, Truffle  
+**Blockchain Platforms:** Ethereum, Polygon, BNB Chain, Solana  
+**Frontend:** React, Next.js, Tailwind CSS, Ethers.js, Web3.js  
+**Backend & APIs:** Node.js, Express, GraphQL, IPFS, The Graph  
+**DevOps & Tooling:** Docker, Git, GitHub Actions, Infura, Alchemy, Moralis, Pinata  
+**Standards & Protocols:** ERC-20, ERC-721, ERC-1155, Chainlink Oracles, WalletConnect
 
 ---
 
-## Projects I'm Proud Of
+## Projects
 
-- [To-do List](https://todofloww.netlify.app/) — A clean and intuitive app for managing tasks and boosting productivity.
-- [Admin Dashboard](https://adminda.netlify.app/) — A fully responsive admin panel with analytics, user management, and more.
-- [Ecommerce Website](https://fitgearr.netlify.app/) A modern storefront for fitness products with cart, checkout, and payment integration.
+**NFT Marketplace**  
+A full-stack decentralized marketplace for minting, listing, and trading NFTs on Ethereum.
 
+**DAO Governance System**  
+An on-chain voting platform using smart contracts for token-based decision-making.
 
----
-
-## Let's Connect
-
-- Portfolio: [ambursa.dev](https://ambursaa.netlify.app/)
-- LinkedIn: [linkedin.com/in/ambursaaa](https://www.linkedin.com/in/ambursaaa/)
-- Twitter/X: [@aambursaa](https://x.com/aambursaa)
-- Email: [info@ambursa.dev](mailto:info@ambursa.dev)
+**Token Launch Platform**  
+An end-to-end dApp for creating and managing ERC-20 tokens with ICO/Crowdsale support.
 
 ---
 
-## Fun Fact
+## Connect
 
-I’m always exploring ways to blend clean design with solid architecture. Whether it’s a sleek frontend or a robust backend, I love turning ideas into impactful digital products.
+**Portfolio:** [ambursa.dev](https://amburse.dev)  
+**LinkedIn:** [linkedin.com/in/abubakarsani](https://linkedin.com/in/ambursa)  
+**Twitter/X:** [twitter.com/abubakarsanii](https://twitter.com/amburssa)  
+**Email:** info@ambursa.dev
 
 ---
 
-Thanks for visiting my GitHub! Feel free to explore my work and reach out if you'd like to collaborate.
+## About
+
+I believe in building transparent, permissionless systems that create real value. Whether it's NFTs, DeFi, or governance protocols, I enjoy working on meaningful projects that push the boundaries of blockchain technology.
+
+Thanks for visiting my GitHub. Feel free to explore my work and reach out for collaborations or contributions.
