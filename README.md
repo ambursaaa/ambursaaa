@@ -1,7 +1,3 @@
-# Muhammad Ambursa
-
-Blockchain Developer | Smart Contract Engineer | Web3 Builder
-
 I’m a developer focused on building secure, decentralized applications and contributing to the future of Web3. My expertise lies in smart contract development, dApp architecture, and integrating blockchain with real-world use cases.
 
 ---
