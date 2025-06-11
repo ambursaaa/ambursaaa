@@ -1,48 +1,67 @@
-Hi, I'm Abubakar
-I'm a backend developer passionate about building robust, scalable systems that power real-world applications. I specialize in designing APIs, managing data flows, and creating reliable server-side logic for modern web and mobile products.
+# Hi, I'm Abubakar
 
-My work focuses on performance, security, and clean architecture, whether it’s building RESTful or GraphQL APIs, integrating third-party services, or managing deployment pipelines. I enjoy solving complex backend problems and building tools that help businesses operate more efficiently.
+I'm a backend developer passionate about building scalable, secure, and maintainable systems.  
+I design server-side applications, REST/GraphQL APIs, and real-time infrastructure that solve real-world problems.
 
-Tech Stack & Tools
-Languages:
-JavaScript, TypeScript, Rust
+[![Portfolio](https://img.shields.io/badge/Portfolio-ambursa.dev-black?style=flat-square&logo=Google-Chrome)](https://ambursa.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abubakar%20Sani-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abubakarsani)
+[![Email](https://img.shields.io/badge/Email-info@ambursa.dev-red?style=flat-square&logo=gmail)](mailto:info@ambursa.dev)
 
-Backend Frameworks & APIs:
-Node.js, Express, NestJS, GraphQL, REST, WebSockets
+---
 
-Databases & Caching:
-PostgreSQL, MongoDB, Redis
+## Tech Stack & Tools
 
-DevOps & Infrastructure:
-Docker, GitHub Actions, NGINX, PM2
+**Languages**  
+JavaScript · TypeScript · Rust  
 
-Testing & Quality:
-Jest, Supertest, ESLint, Prettier
+**Backend Frameworks**  
+Node.js · Express · NestJS · GraphQL · REST · WebSockets  
 
-Others:
-OAuth2, JWT, Role-Based Access Control (RBAC), Cloud Storage Integrations, CI/CD Pipelines
+**Databases & Caching**  
+PostgreSQL · MongoDB · Redis  
 
-Projects
-Multi-Tenant Admin System
-Developed a secure backend for managing multiple organizations with user roles, authentication, and usage-based access controls.
+**Infrastructure & DevOps**  
+Docker · GitHub Actions · NGINX · PM2  
 
-Real-Time Notification Service
-Built a scalable WebSocket-based notification system with Redis pub/sub for real-time updates across client apps.
+**Testing & Code Quality**  
+Jest · Supertest · ESLint · Prettier  
 
-Analytics API for SaaS Platform
-Designed a high-performance API layer for serving dashboard data, tracking usage metrics, and integrating with third-party tools.
+**Security & Auth**  
+OAuth2 · JWT · Role-Based Access Control (RBAC)  
 
-Secure File Upload API
-Implemented cloud-based file upload with token-based authentication and signed URLs for safe client access.
+---
 
-What I'm Working On
-Currently, I’m focusing on improving my systems design skills and exploring Rust for building performance-critical services. I’m also interested in building developer tools and automation scripts to streamline backend workflows.
+## Projects
 
-Connect with Me
-Website: ambursa.dev
+**Multi-Tenant Admin Backend**  
+Built a scalable backend to manage multiple organizations with advanced role-based permissions and audit logging.
 
-LinkedIn: linkedin.com/in/ambursaaa
+**Real-Time Notification Service**  
+Developed a WebSocket-based notification system with Redis pub/sub and secure token authentication.
 
-Email: info@ambursa.dev
+**SaaS Analytics API**  
+Designed high-performance GraphQL and REST endpoints for serving real-time metrics and dashboards.
 
-Thanks for visiting my GitHub — feel free to explore my repositories or reach out if you'd like to collaborate.
+**Secure File Upload API**  
+Implemented signed URLs and token-protected endpoints for secure cloud file management.
+
+---
+
+## What I'm Focusing On
+
+- Improving scalability and fault tolerance in backend systems  
+- Exploring Rust for performance-critical services  
+- Automating backend workflows and deployment pipelines  
+- Deepening knowledge of systems architecture and design  
+
+---
+
+## Get in Touch
+
+Website: [ambursa.dev](https://ambursa.dev)  
+LinkedIn: [linkedin.com/in/abubakarsani](https://linkedin.com/in/abubakarsani)  
+Email: [info@ambursa.dev](mailto:info@ambursa.dev)
+
+---
+
+Thank you for visiting my GitHub. Feel free to explore my projects or reach out for collaboration.
