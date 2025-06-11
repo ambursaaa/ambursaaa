@@ -54,9 +54,9 @@ Implemented signed URLs and token-protected endpoints for secure cloud file mana
 
 ## Get in Touch
 
-Website: [ambursa.dev](https://ambursa.dev)  
-LinkedIn: [linkedin.com/in/abubakarsani](https://linkedin.com/in/abubakarsani)  
-Email: [info@ambursa.dev](mailto:info@ambursa.dev)
+Website: [ambursa.dev](https://ambursaa.netlify.app)  
+LinkedIn: [linkedin.com/in/abubakarsani](https://linkedin.com/in/ambursaa)  
+Email: [info@ambursa.dev](mailto:abumuhafa@gmail.com)
 
 ---
 
