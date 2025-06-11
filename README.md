@@ -1,43 +1,48 @@
-I’m a developer focused on building secure, decentralized applications and contributing to the future of Web3. My expertise lies in smart contract development, dApp architecture, and integrating blockchain with real-world use cases.
+Hi, I'm Abubakar
+I'm a backend developer passionate about building robust, scalable systems that power real-world applications. I specialize in designing APIs, managing data flows, and creating reliable server-side logic for modern web and mobile products.
 
----
+My work focuses on performance, security, and clean architecture, whether it’s building RESTful or GraphQL APIs, integrating third-party services, or managing deployment pipelines. I enjoy solving complex backend problems and building tools that help businesses operate more efficiently.
 
-## Tech Stack & Tools
+Tech Stack & Tools
+Languages:
+JavaScript, TypeScript, Rust
 
-**Languages:** Solidity, JavaScript, TypeScript, Rust  
-**Smart Contract Development:** Hardhat, Foundry, Truffle  
-**Blockchain Platforms:** Ethereum, Polygon, BNB Chain, Solana  
-**Frontend:** React, Next.js, Tailwind CSS, Ethers.js, Web3.js  
-**Backend & APIs:** Node.js, Express, GraphQL, IPFS, The Graph  
-**DevOps & Tooling:** Docker, Git, GitHub Actions, Infura, Alchemy, Moralis, Pinata  
-**Standards & Protocols:** ERC-20, ERC-721, ERC-1155, Chainlink Oracles, WalletConnect
+Backend Frameworks & APIs:
+Node.js, Express, NestJS, GraphQL, REST, WebSockets
 
----
+Databases & Caching:
+PostgreSQL, MongoDB, Redis
 
-## Projects
+DevOps & Infrastructure:
+Docker, GitHub Actions, NGINX, PM2
 
-**NFT Marketplace**  
-A full-stack decentralized marketplace for minting, listing, and trading NFTs on Ethereum.
+Testing & Quality:
+Jest, Supertest, ESLint, Prettier
 
-**DAO Governance System**  
-An on-chain voting platform using smart contracts for token-based decision-making.
+Others:
+OAuth2, JWT, Role-Based Access Control (RBAC), Cloud Storage Integrations, CI/CD Pipelines
 
-**Token Launch Platform**  
-An end-to-end dApp for creating and managing ERC-20 tokens with ICO/Crowdsale support.
+Projects
+Multi-Tenant Admin System
+Developed a secure backend for managing multiple organizations with user roles, authentication, and usage-based access controls.
 
----
+Real-Time Notification Service
+Built a scalable WebSocket-based notification system with Redis pub/sub for real-time updates across client apps.
 
-## Connect
+Analytics API for SaaS Platform
+Designed a high-performance API layer for serving dashboard data, tracking usage metrics, and integrating with third-party tools.
 
-**Portfolio:** [ambursa.dev](https://amburse.dev)  
-**LinkedIn:** [linkedin.com/in/abubakarsani](https://linkedin.com/in/ambursa)  
-**Twitter/X:** [twitter.com/abubakarsanii](https://twitter.com/amburssa)  
-**Email:** info@ambursa.dev
+Secure File Upload API
+Implemented cloud-based file upload with token-based authentication and signed URLs for safe client access.
 
----
+What I'm Working On
+Currently, I’m focusing on improving my systems design skills and exploring Rust for building performance-critical services. I’m also interested in building developer tools and automation scripts to streamline backend workflows.
 
-## About
+Connect with Me
+Website: ambursa.dev
 
-I believe in building transparent, permissionless systems that create real value. Whether it's NFTs, DeFi, or governance protocols, I enjoy working on meaningful projects that push the boundaries of blockchain technology.
+LinkedIn: linkedin.com/in/ambursaaa
 
-Thanks for visiting my GitHub. Feel free to explore my work and reach out for collaborations or contributions.
+Email: info@ambursa.dev
+
+Thanks for visiting my GitHub — feel free to explore my repositories or reach out if you'd like to collaborate.
