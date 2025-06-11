@@ -3,10 +3,6 @@
 I'm a backend developer passionate about building scalable, secure, and maintainable systems.  
 I design server-side applications, REST/GraphQL APIs, and real-time infrastructure that solve real-world problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ambursa.dev-black?style=flat-square&logo=Google-Chrome)](https://ambursa.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abubakar%20Sani-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abubakarsani)
-[![Email](https://img.shields.io/badge/Email-info@ambursa.dev-red?style=flat-square&logo=gmail)](mailto:info@ambursa.dev)
-
 ---
 
 ## Tech Stack & Tools
