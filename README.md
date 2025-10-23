@@ -1,61 +1,61 @@
-# Hi, I'm Abubakar
+# Hi, I'm Muhammad Ambursa
 
-I'm a backend developer passionate about building scalable, secure, and maintainable systems.  
-I design server-side applications, REST/GraphQL APIs, and real-time infrastructure that solve real-world problems.
+A passionate **DevOps Engineer** with a knack for bridging the gap between development and operations. I thrive on automating chaos, optimizing workflows, and scaling systems that power the future. Currently building resilient infrastructures and CI/CD pipelines that make software delivery feel like magic.
 
 ---
 
 ## Tech Stack & Tools
 
-**Languages**  
-JavaScript · TypeScript · Rust  
+**Infrastructure as Code (IaC)**  
+Terraform · Ansible · CloudFormation  
 
-**Backend Frameworks**  
-Node.js · Express · NestJS · GraphQL · REST · WebSockets  
+**CI/CD & Automation**  
+Jenkins · GitHub Actions · GitLab CI  
 
-**Databases & Caching**  
-PostgreSQL · MongoDB · Redis  
+**Cloud Platforms**  
+AWS · Azure · GCP  
 
-**Infrastructure & DevOps**  
-Docker · GitHub Actions · NGINX · PM2  
+**Containerization & Orchestration**  
+Docker · Kubernetes · Helm  
 
-**Testing & Code Quality**  
-Jest · Supertest · ESLint · Prettier  
+**Monitoring & Logging**  
+Prometheus · Grafana · ELK Stack  
 
-**Security & Auth**  
-OAuth2 · JWT · Role-Based Access Control (RBAC)  
+**Security & Compliance**  
+Vault · Falco · OPA (Open Policy Agent)  
 
 ---
 
 ## Projects
 
-**Multi-Tenant Admin Backend**  
-Built a scalable backend to manage multiple organizations with advanced role-based permissions and audit logging.
+**Automated Multi-Cloud Deployment Pipeline**  
+Designed a GitHub Actions workflow with Terraform for provisioning and deploying applications across AWS and Azure, including automated rollback on failures.
 
-**Real-Time Notification Service**  
-Developed a WebSocket-based notification system with Redis pub/sub and secure token authentication.
+**Kubernetes Cluster with Observability**  
+Built a production-grade K8s cluster using Helm charts, integrated with Prometheus and Grafana for real-time metrics and alerting.
 
-**SaaS Analytics API**  
-Designed high-performance GraphQL and REST endpoints for serving real-time metrics and dashboards.
+**Infrastructure Monitoring Dashboard**  
+Developed a centralized ELK Stack setup with Ansible playbooks to aggregate logs and visualize system health across distributed environments.
 
-**Secure File Upload API**  
-Implemented signed URLs and token-protected endpoints for secure cloud file management.
+**Zero-Trust Security Pipeline**  
+Implemented OPA-based policy enforcement in CI/CD pipelines, scanning for vulnerabilities and enforcing compliance in Docker images.
 
 ---
 
 ## What I'm Focusing On
 
-- Improving scalability and fault tolerance in backend systems  
-- Exploring Rust for performance-critical services  
-- Automating backend workflows and deployment pipelines  
-- Deepening knowledge of systems architecture and design  
+- Enhancing infrastructure resilience with chaos engineering and advanced monitoring  
+- Adopting GitOps principles for declarative deployments  
+- Integrating AI/ML into DevOps for predictive scaling and anomaly detection  
+- Strengthening security postures in cloud-native architectures  
 
 ---
 
 ## Get in Touch
 
-Website: [ambursa.dev](https://ambursaa.netlify.app)  
-Email: [info@ambursa.dev](mailto:abumuhafa@gmail.com)
+Website: [ambursa.dev](https://ambursa.dev)  
+Email: [aambursa@proton.me](mailto:aambursa@proton.me)  
+X: [x.com/ambursaaa](https://x.com//aambursaaa)
 
 ---
 
