@@ -1,62 +1,27 @@
-# Hi, I'm Muhammad Ambursa
+Hi, I’m Muhammad Ambursa
+A dedicated dApp Developer passionate about building decentralized applications that empower users and redefine trust in digital ecosystems. I specialize in creating secure, scalable smart contracts and intuitive frontends that bring blockchain technology to life. Currently exploring innovative ways to integrate Web3 with real-world use cases for seamless adoption.
 
-A passionate **DevOps Engineer** with a knack for bridging the gap between development and operations. I thrive on automating chaos, optimizing workflows, and scaling systems that power the future. Currently building resilient infrastructures and CI/CD pipelines that make software delivery feel like magic.
+Tech Stack & Tools
+Blockchain Platforms Ethereum · Solana · Polkadot · Binance Smart Chain
+Smart Contract Development Solidity · Rust · Vyper · Ink!
+Frontend & Web3 Integration React · Vue.js · Web3.js · Ethers.js · Anchor
+Development Frameworks Truffle · Hardhat · Foundry · Remix IDE
+Testing & Security Mocha/Chai · Slither · MythX · OpenZeppelin
+Decentralized Storage & Oracles IPFS · Filecoin · Chainlink · The Graph
 
----
+Projects
+Decentralized NFT Marketplace Built a full-stack dApp on Ethereum using Solidity for smart contracts, React for the frontend, and IPFS for metadata storage. Includes features like bidding, royalties, and lazy minting.
+DeFi Yield Farming Protocol Developed a yield optimizer on Solana with Rust smart programs, integrated with Raydium for liquidity pools, and a Vue.js dashboard for user staking and rewards tracking.
+Cross-Chain Voting DAO Created a governance dApp using Polkadot’s Substrate framework, enabling token holders to vote on proposals across chains with Chainlink oracles for secure data feeds.
+Web3 Identity Wallet Implemented a self-sovereign identity system on Ethereum with ERC-725 standards, using Hardhat for testing and Web3.js for wallet interactions, focusing on privacy and user control.
 
-## Tech Stack & Tools
+What I’m Focusing On
+	•	Advancing cross-chain interoperability with bridges and layer-2 solutions
+	•	Incorporating zero-knowledge proofs for enhanced privacy in dApps
+	•	Integrating AI for on-chain analytics and predictive smart contracts
+	•	Promoting sustainable blockchain practices with energy-efficient consensus mechanisms
 
-**Infrastructure as Code (IaC)**  
-Terraform · Ansible · CloudFormation  
+Get in Touch
+Website: rivera.dev Email: alex@rivera.dev X: x.com/alexriveradev
 
-**CI/CD & Automation**  
-Jenkins · GitHub Actions · GitLab CI  
-
-**Cloud Platforms**  
-AWS · Azure · GCP  
-
-**Containerization & Orchestration**  
-Docker · Kubernetes · Helm  
-
-**Monitoring & Logging**  
-Prometheus · Grafana · ELK Stack  
-
-**Security & Compliance**  
-Vault · Falco · OPA (Open Policy Agent)  
-
----
-
-## Projects
-
-**Automated Multi-Cloud Deployment Pipeline**  
-Designed a GitHub Actions workflow with Terraform for provisioning and deploying applications across AWS and Azure, including automated rollback on failures.
-
-**Kubernetes Cluster with Observability**  
-Built a production-grade K8s cluster using Helm charts, integrated with Prometheus and Grafana for real-time metrics and alerting.
-
-**Infrastructure Monitoring Dashboard**  
-Developed a centralized ELK Stack setup with Ansible playbooks to aggregate logs and visualize system health across distributed environments.
-
-**Zero-Trust Security Pipeline**  
-Implemented OPA-based policy enforcement in CI/CD pipelines, scanning for vulnerabilities and enforcing compliance in Docker images.
-
----
-
-## What I'm Focusing On
-
-- Enhancing infrastructure resilience with chaos engineering and advanced monitoring  
-- Adopting GitOps principles for declarative deployments  
-- Integrating AI/ML into DevOps for predictive scaling and anomaly detection  
-- Strengthening security postures in cloud-native architectures  
-
----
-
-## Get in Touch
-
-Website: [ambursa.dev](https://ambursa.dev)  
-Email: [aambursa@proton.me](mailto:aambursa@proton.me)  
-X: [x.com/ambursaaa](https://x.com//aambursaaa)
-
----
-
-Thank you for visiting my GitHub. Feel free to explore my projects or reach out for collaboration.
+Thank you for visiting my GitHub. Feel free to explore my projects or reach out for collaboration on Web3 innovations!
