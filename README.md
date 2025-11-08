@@ -1,62 +1,76 @@
-# Hi, I'm Muhammad Ambursa
+# Hi there, I’m Muhammad Ambursa 👋
 
-A dedicated **dApp Developer** passionate about building decentralized applications that empower users and redefine trust in digital ecosystems. I specialize in creating secure, scalable smart contracts and intuitive frontends to drive Web3 innovation. Currently exploring ways to bridge blockchain technology with real-world solutions for seamless adoption.
+## 🚀 About Me
 
----
+I’m a **Web Developer** transitioning into the world of **decentralized platforms and applications**. With a solid foundation in web design and development, I’m now focused on building the next generation of internet applications using blockchain technology and Web3 protocols.
 
-## Tech Stack & Tools
+🎓 **Certified in Web Design & Development**  
+💡 **Currently exploring**: Smart contracts, dApps, and decentralized architectures  
+🌱 **Learning**: Solidity, Ethereum, IPFS, and Web3.js  
+🎯 **Goal**: Build scalable, user-friendly decentralized applications
 
-**Blockchain Platforms**  
-Ethereum · Solana · Polkadot 
+-----
 
-**Smart Contract Development**  
-Solidity · Rust · Vyper · Ink!  
+## 🛠️ Tech Stack
 
-**Frontend & Web3 Integration**  
-React · Vue.js · Web3.js · Ethers.js · Anchor  
+**Frontend Development**  
+HTML5 · CSS3 · JavaScript (ES6+) · React · Vue.js · Responsive Design · UI/UX · TailwindCSS · Bootstrap
 
-**Development Frameworks**  
-Truffle · Hardhat · Foundry · Remix IDE  
+**Web3 & Blockchain**  
+Ethereum · EVM-compatible chains · Solidity · Web3.js · Ethers.js · MetaMask integration · IPFS · Smart contracts
 
-**Testing & Security**  
-Mocha/Chai · Slither · MythX · OpenZeppelin  
+**Backend & Tools**  
+Node.js · Express · Git & GitHub · RESTful APIs · MongoDB · PostgreSQL
 
-**Decentralized Storage & Oracles**  
-IPFS · Filecoin · Chainlink · The Graph  
+-----
 
----
+## 🔭 Current Focus
 
-## Projects
+- Building decentralized applications (dApps) with modern web frameworks
+- Learning smart contract development and security best practices
+- Exploring DeFi protocols and NFT marketplaces
+- Contributing to open-source Web3 projects
 
-**Decentralized NFT Marketplace**  
-Built a full-stack dApp on Ethereum using Solidity for smart contracts, React for the frontend, and IPFS for metadata storage. Features include bidding, royalties, and lazy minting.
+-----
 
-**DeFi Yield Farming Protocol**  
-Developed a yield optimizer on Solana with Rust smart programs, integrated with Raydium for liquidity pools, and a Vue.js dashboard for user staking and rewards tracking.
+## 💼 What I’m Looking For
 
-**Cross-Chain Voting DAO**  
-Created a governance dApp using Polkadot's Substrate framework, enabling token holders to vote on proposals across chains with Chainlink oracles for secure data feeds.
+I’m actively seeking opportunities to:
 
-**Web3 Identity Wallet**  
-Implemented a self-sovereign identity system on Ethereum with ERC-725 standards, using Hardhat for testing and Web3.js for wallet interactions, focusing on privacy and user control.
+- Collaborate on Web3 and blockchain projects
+- Contribute to decentralized application development
+- Join innovative teams building the decentralized future
+- Learn from experienced blockchain developers
 
----
+-----
 
-## What I'm Focusing On
-
-- Advancing cross-chain interoperability with bridges and layer-2 solutions  
-- Incorporating zero-knowledge proofs for enhanced privacy in dApps  
-- Integrating AI for on-chain analytics and predictive smart contracts  
-- Promoting sustainable blockchain practices with energy-efficient consensus mechanisms  
-
----
-
-## Get in Touch
+## 📫 Get in Touch
 
 Website: [ambursa.dev](https://ambursa.dev)  
 Email: [aambursa@proton.me](mailto:aambursa@proton.me)  
 X: [x.com/ambursaaa](https://x.com/ambursaaa)
 
----
+-----
 
-Thank you for visiting my GitHub. Feel free to explore my projects or reach out for collaboration on Web3 innovations!
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ambursaaa&show_icons=true&theme=radical)
+
+-----
+
+## 🌟 Featured Projects
+
+**Project Name 1**  
+Description of your dApp or Web3 project. Technologies used: React, Solidity, Ethers.js
+
+**Project Name 2**  
+Description of your web development project showcasing your certified skills.
+
+**Project Name 3**  
+Description of another project demonstrating your transition to decentralized tech.
+
+-----
+
+⚡ **Fun fact**: I believe the future of the web is decentralized, and I’m excited to be part of building it!
+
+💬 **Let’s connect** and build the decentralized future together!
