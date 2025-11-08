@@ -1,17 +1,17 @@
-# Hi there, I’m Muhammad Ambursa 👋
+# Hi there, I’m Muhammad Ambursa 
 
-## 🚀 About Me
+## About Me
 
 I’m a **Web Developer** transitioning into the world of **decentralized platforms and applications**. With a solid foundation in web design and development, I’m now focused on building the next generation of internet applications using blockchain technology and Web3 protocols.
 
-🎓 **Certified in Web Design & Development**  
-💡 **Currently exploring**: Smart contracts, dApps, and decentralized architectures  
-🌱 **Learning**: Solidity, Ethereum, IPFS, and Web3.js  
-🎯 **Goal**: Build scalable, user-friendly decentralized applications
+**Certified in Web Design & Development**  
+**Currently exploring**: Smart contracts, dApps, and decentralized architectures  
+**Learning**: Solidity, Ethereum, IPFS, and Web3.js  
+**Goal**: Build scalable, user-friendly decentralized applications
 
 -----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend Development**  
 HTML5 · CSS3 · JavaScript (ES6+) · React · Vue.js · Responsive Design · UI/UX · TailwindCSS · Bootstrap
@@ -33,7 +33,7 @@ Node.js · Express · Git & GitHub · RESTful APIs · MongoDB · PostgreSQL
 
 -----
 
-## 💼 What I’m Looking For
+## What I’m Looking For
 
 I’m actively seeking opportunities to:
 
@@ -44,7 +44,7 @@ I’m actively seeking opportunities to:
 
 -----
 
-## 📫 Get in Touch
+## Get in Touch
 
 Website: [ambursa.dev](https://ambursa.dev)  
 Email: [aambursa@proton.me](mailto:aambursa@proton.me)  
@@ -52,13 +52,13 @@ X: [x.com/ambursaaa](https://x.com/ambursaaa)
 
 -----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ambursaaa&show_icons=true&theme=radical)
 
 -----
 
-## 🌟 Featured Projects
+## Featured Projects
 
 **Project Name 1**  
 Description of your dApp or Web3 project. Technologies used: React, Solidity, Ethers.js
@@ -71,6 +71,6 @@ Description of another project demonstrating your transition to decentralized te
 
 -----
 
-⚡ **Fun fact**: I believe the future of the web is decentralized, and I’m excited to be part of building it!
+**Fun fact**: I believe the future of the web is decentralized, and I’m excited to be part of building it!
 
-💬 **Let’s connect** and build the decentralized future together!
+**Let’s connect** and build the decentralized future together!
