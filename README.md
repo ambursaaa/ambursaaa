@@ -24,7 +24,7 @@ Node.js · Express · Git & GitHub · RESTful APIs · MongoDB · PostgreSQL
 
 -----
 
-## 🔭 Current Focus
+## Current Focus
 
 - Building decentralized applications (dApps) with modern web frameworks
 - Learning smart contract development and security best practices
