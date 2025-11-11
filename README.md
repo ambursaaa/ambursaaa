@@ -52,22 +52,18 @@ X: [x.com/ambursaaa](https://x.com/ambursaaa)
 
 -----
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ambursaaa&show_icons=true&theme=radical)
-
------
-
 ## Featured Projects
 
-**Project Name 1**  
-Description of your dApp or Web3 project. Technologies used: React, Solidity, Ethers.js
+**Multi-Chain Portfolio Tracker**  
+A cryptocurrency portfolio management tool that monitors and displays your holdings across multiple blockchain networks in a single unified interface.
+Technologies used: React, Solidity, Ethers.js
 
-**Project Name 2**  
-Description of your web development project showcasing your certified skills.
+**NFT Minting dApp**  
+A decentralized application that allows users to create and mint NFTs with metadata and images stored on IPFS for permanent decentralized hosting.
+Technologies used: React, Solidity, Ethers.js
 
-**Project Name 3**  
-Description of another project demonstrating your transition to decentralized tech.
+**Decentralized Tip Jar**  
+A blockchain-based payment tool that enables creators and individuals to receive cryptocurrency donations directly from supporters without relying on traditional payment processors or platforms.
 
 -----
 
