@@ -1,203 +1,214 @@
 # Hi there, I'm Muhammad
 
 ## About Me
-I'm a **Blockchain Developer** specializing in building secure, efficient, and innovative blockchain solutions. With expertise in decentralized finance (DeFi), tokenomics, and protocol architecture, I transform complex business logic into battle-tested smart contracts.
+I'm a **Blockchain Developer** specializing in smart contract development and token creation across multiple blockchain ecosystems. With focused expertise in Solana and EVM-compatible chains (Ethereum and Base), I build secure and efficient decentralized solutions.
 
-**Currently exploring**: Cross-chain protocols, Layer 2 scaling solutions, and advanced DeFi mechanisms  
-**Specializing in**: Solidity development, smart contract security, gas optimization  
-**Mission**: Build secure, scalable smart contracts that power the decentralized economy
+**Currently exploring**: Advanced token standards, DeFi mechanisms, and cross-chain capabilities  
+**Specializing in**: Solana program development, Solidity smart contracts, token creation and deployment  
+**Mission**: Build secure, innovative blockchain solutions that drive the decentralized economy forward
 
 -----
 
 ## Tech Stack
 
 **Smart Contract Development**  
-Solidity · Vyper · Yul · OpenZeppelin · Hardhat · Foundry · Truffle · Remix IDE
+Solidity · Rust · Anchor Framework · OpenZeppelin · Hardhat · Foundry · Remix IDE
 
 **Blockchain Platforms**  
-Ethereum · Polygon · Binance Smart Chain · Arbitrum · Optimism · Avalanche · Base · zkSync
+Solana · Ethereum · Base · Polygon · Binance Smart Chain · Arbitrum · Optimism
 
 **Development & Testing**  
-Hardhat · Foundry · Waffle · Chai · Mocha · Ganache · Tenderly · Ethers.js · Web3.js
-
-**Security & Auditing**  
-Slither · MythX · Echidna · Manticore · Certora · OpenZeppelin Defender · Smart contract auditing best practices
+Anchor · Hardhat · Foundry · Solana CLI · Ethers.js · Web3.js · Solana Web3.js · Metaplex
 
 **Tools & Infrastructure**  
-IPFS · The Graph · Chainlink Oracles · Git & GitHub · CI/CD · Alchemy · Infura · QuickNode
+Git & GitHub · Alchemy · Infura · QuickNode · Phantom Wallet · MetaMask · IPFS
 
 **Frontend Integration**  
-React · Next.js · Web3.js · Ethers.js · Wagmi · RainbowKit · WalletConnect
+React · Next.js · Web3.js · Ethers.js · Wagmi · WalletConnect · Solana Wallet Adapter
 
 -----
 
 ## Core Competencies
 
-- **DeFi Protocol Development**: AMMs, lending/borrowing protocols, yield farming, staking mechanisms
-- **Token Standards**: ERC-20, ERC-721, ERC-1155, ERC-4626, custom token implementations
-- **Smart Contract Security**: Security audits, vulnerability assessment, secure coding patterns
-- **Gas Optimization**: Efficient code patterns, storage optimization, computational cost reduction
-- **Protocol Architecture**: Upgradeable contracts, proxy patterns, modular design
-- **Testing & Quality Assurance**: Unit testing, integration testing, fuzzing, formal verification
+- **Token Development**: ERC-20, ERC-721, ERC-1155 on Ethereum/Base; SPL tokens on Solana
+- **Smart Contract Development**: Secure contract implementation on EVM and Solana
+- **DeFi Protocols**: Staking mechanisms, token vesting, basic DeFi primitives
+- **NFT Solutions**: NFT minting contracts, marketplace integration, metadata management
+- **Security Best Practices**: Secure coding patterns, vulnerability prevention, code auditing
+- **Gas/Transaction Optimization**: Efficient implementation patterns for cost reduction
 
 -----
 
 ## Current Focus
 
-- Developing next-generation DeFi protocols with enhanced security features
-- Implementing cross-chain smart contract solutions and bridge protocols
-- Researching zero-knowledge proof implementations for privacy-preserving contracts
-- Contributing to open-source blockchain security tools and frameworks
-- Conducting smart contract audits and security assessments
+- Mastering Solana program development with Anchor framework
+- Building production-ready token contracts on Ethereum and Base
+- Implementing secure token sale and distribution mechanisms
+- Developing NFT minting and marketplace solutions
+- Learning advanced DeFi protocol architecture
+- Contributing to open-source blockchain projects
 
 -----
 
 ## Security-First Approach
 
-I follow industry-leading security practices:
-- Comprehensive test coverage (unit, integration, and fuzz testing)
-- Regular security audits using automated tools and manual review
-- Implementation of battle-tested libraries (OpenZeppelin, Solmate)
-- Gas optimization without compromising security
+I prioritize security in every project:
+- Comprehensive testing before deployment
+- Following industry-standard security patterns
+- Utilizing battle-tested libraries (OpenZeppelin, Metaplex)
+- Implementing proper access controls and permissions
+- Protection against common vulnerabilities (reentrancy, overflow/underflow)
+- Code reviews and security assessments
 - Following CEI (Checks-Effects-Interactions) pattern
-- Proper access control and role-based permissions
-- Protection against common vulnerabilities (reentrancy, overflow/underflow, front-running)
 
 -----
 
 ## What I Offer
 
-- **Smart Contract Development**: End-to-end development of secure, gas-optimized contracts
-- **Protocol Design**: Architecture and implementation of complex DeFi protocols
-- **Security Audits**: Comprehensive security reviews and vulnerability assessments
-- **Technical Consulting**: Blockchain architecture advice and implementation strategy
-- **Code Reviews**: Expert review of existing smart contracts with improvement recommendations
-- **Gas Optimization**: Reducing transaction costs while maintaining security
+- **Token Creation**: Custom token development on Solana, Ethereum, and Base
+- **Smart Contract Development**: Secure smart contracts tailored to your requirements
+- **NFT Solutions**: End-to-end NFT contract development and deployment
+- **Technical Consulting**: Blockchain technology advice and implementation guidance
+- **Code Reviews**: Smart contract review and optimization recommendations
+- **Deployment Services**: Multi-chain contract deployment and verification
+
+-----
+
+## Services
+
+### Solana Development
+- SPL token creation and management
+- Anchor program development
+- NFT minting programs using Metaplex
+- Token staking and vesting programs
+- Custom on-chain programs
+
+### Ethereum/Base Development
+- ERC-20 token contracts
+- ERC-721 & ERC-1155 NFT contracts
+- Token sale and ICO contracts
+- Staking and reward mechanisms
+- Multi-signature wallets
 
 -----
 
 ## Collaboration Opportunities
 
 I'm actively seeking opportunities to:
-- Build innovative DeFi protocols and blockchain infrastructure
-- Collaborate on high-impact Web3 projects with experienced teams
-- Contribute to open-source blockchain development and security tools
-- Participate in smart contract auditing and security research
-- Join forward-thinking organizations pushing blockchain boundaries
+- Build innovative blockchain solutions with forward-thinking teams
+- Collaborate on Web3 projects and DeFi protocols
+- Contribute to open-source blockchain development
+- Work on challenging smart contract implementations
+- Join organizations pushing blockchain technology boundaries
+- Partner on token launches and NFT projects
 
 -----
 
 ## Get in Touch
 
 **Website**: [ambursa.dev](https://ambursa.dev)  
-**Email**: [info@ambursa.dev](mailto:your.email@domain.com)  
-**Twitter/X**: [x.com/aambursaaa](https://x.com/aambursaaa)  
+**Email**: [info@ambursa.dev](mailto:info@ambursa.dev)  
+**Twitter/X**: [@aambursaaa](https://x.com/aambursaaa)  
 **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
 **Discord**: yourusername#0000
 
 -----
 
-## Featured Projects
+## Development Approach
 
-### Decentralized Lending Protocol
-A peer-to-pool lending platform enabling users to lend and borrow crypto assets with dynamic interest rates based on supply and demand.
+### Planning & Architecture
+- Understanding project requirements and goals
+- Designing optimal contract architecture
+- Selecting appropriate blockchain platform
+- Planning security measures
 
-**Key Features**:
-- Collateralized lending with liquidation mechanisms
-- Algorithmic interest rate model
-- Flash loan resistant architecture
-- Gas-optimized operations
+### Development & Testing
+- Writing clean, well-documented code
+- Implementing comprehensive test suites
+- Conducting thorough testing on testnets
+- Gas/transaction optimization
 
-**Technologies**: Solidity, Hardhat, OpenZeppelin, Chainlink Price Feeds  
-**Audited**: Yes | **Test Coverage**: 98%
-
----
-
-### Multi-Signature Vault
-An enterprise-grade multi-signature wallet with time-locks, role-based access control, and batch transaction execution for secure treasury management.
-
-**Key Features**:
-- Customizable signature thresholds
-- Time-delayed execution for high-value transactions
-- Emergency pause mechanism
-- Batch transaction processing
-
-**Technologies**: Solidity, Foundry, Gnosis Safe SDK  
-**Audited**: Yes | **Test Coverage**: 100%
-
----
-
-### NFT Marketplace with Royalties
-A decentralized NFT marketplace supporting ERC-721 and ERC-1155 tokens with automated royalty distribution and lazy minting capabilities.
-
-**Key Features**:
-- Automated creator royalty enforcement (EIP-2981)
-- Lazy minting to reduce gas costs
-- Auction and fixed-price listings
-- Offer/bid system
-
-**Technologies**: Solidity, Hardhat, IPFS, The Graph  
-**Audited**: In Progress | **Test Coverage**: 95%
-
----
-
-### Cross-Chain Bridge
-A secure bridge protocol enabling asset transfers between Ethereum and Layer 2 solutions with optimized gas costs and fraud-proof mechanisms.
-
-**Key Features**:
-- Lock-and-mint architecture
-- Optimistic rollup integration
-- Merkle proof verification
-- Automated relay system
-
-**Technologies**: Solidity, Vyper, Chainlink CCIP  
-**Audited**: Yes | **Test Coverage**: 97%
+### Deployment & Support
+- Mainnet deployment with verification
+- Post-deployment monitoring
+- Documentation and handoff
+- Ongoing support and maintenance
 
 -----
 
-## Audit Reports & Security
+## Technologies I Work With
 
-I maintain transparency in my work. All major projects include:
-- Comprehensive test suites with high coverage
-- Detailed documentation
-- Security considerations and risk assessment
-- Gas optimization reports
-- Public audit reports (where applicable)
+**Solana Ecosystem**
+- Anchor Framework
+- Solana Web3.js
+- Metaplex for NFTs
+- SPL Token Program
+- Solana CLI Tools
 
------
-
-## Blog & Resources
-
-I share my knowledge through:
-- Technical articles on smart contract security
-- Gas optimization techniques and case studies
-- DeFi protocol breakdowns and analysis
-- Tutorial series for aspiring smart contract developers
-
-**Read my latest articles**: [yourblog.dev](https://yourblog.dev)
+**Ethereum/Base Ecosystem**
+- Solidity
+- Hardhat & Foundry
+- OpenZeppelin Contracts
+- Ethers.js & Web3.js
+- EVM-compatible tooling
 
 -----
 
-## Stats & Achievements
+## Why Work With Me?
 
-- **Smart Contracts Deployed**: [X+] production contracts
-- **Total Value Locked (TVL)**: Secured over $[X]M in assets
-- **Audits Conducted**: [X+] comprehensive security reviews
-- **Test Coverage**: Average 95%+ across all projects
-- **Gas Saved**: Optimized contracts saving [X]% gas on average
+- **Multi-Chain Expertise**: Experienced in both Solana and EVM ecosystems
+- **Security Focused**: Every contract built with security as top priority
+- **Quality Code**: Clean, well-documented, and maintainable code
+- **Reliable Delivery**: Committed to meeting deadlines and expectations
+- **Continuous Learning**: Staying updated with latest blockchain developments
+- **Clear Communication**: Regular updates and transparent collaboration
 
 -----
 
-**Code is law, but security is paramount.** I believe in building the future of finance through secure, efficient, and accessible smart contracts.
+## Learning & Growth
 
-**Let's build** the decentralized future together!
+I'm committed to continuous improvement:
+- Regular study of new blockchain technologies
+- Following industry best practices and standards
+- Participating in blockchain developer communities
+- Staying updated on security vulnerabilities and solutions
+- Contributing to open-source projects
+
+-----
+
+## Project Types I Handle
+
+- Custom token creation (fungible and non-fungible)
+- Token sale and distribution contracts
+- Staking and reward systems
+- NFT minting and marketplace contracts
+- Multi-signature wallets
+- DAO governance tokens
+- Vesting and time-lock contracts
+- Basic DeFi protocols
+
+-----
+
+## Values & Principles
+
+**Transparency**: Open communication throughout development  
+**Security**: Never compromising on smart contract security  
+**Quality**: Delivering well-tested, production-ready code  
+**Innovation**: Exploring new solutions and technologies  
+**Integrity**: Honest about capabilities and timelines  
+
+-----
+
+**Building the decentralized future, one smart contract at a time.**
+
+**Let's build** something amazing together!
 
 -----
 
 ## 📜 License
 
-Most of my projects are open-sourced under the MIT License unless otherwise specified.
+Projects are typically open-sourced under the MIT License unless otherwise specified.
 
 ---
 
-*"In cryptography we trust, in code we verify."*
+*"Code with purpose, deploy with confidence."*
