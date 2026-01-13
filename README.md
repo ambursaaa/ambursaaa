@@ -15,7 +15,7 @@ I'm a **Blockchain Developer** specializing in smart contract development and to
 Solidity · Rust · Anchor Framework · OpenZeppelin · Hardhat · Foundry · Remix IDE
 
 **Blockchain Platforms**  
-Solana · Ethereum · Base · Polygon · Binance Smart Chain · Arbitrum · Optimism
+Solana · Ethereum · Base · Polygon 
 
 **Development & Testing**  
 Anchor · Hardhat · Foundry · Solana CLI · Ethers.js · Web3.js · Solana Web3.js · Metaplex
