@@ -40,8 +40,6 @@ I care about shipping practical software, understanding how things work under th
 - Simple architectures that scale
 - Learn fast, iterate faster
 
-Every repository here represents something I’ve built, tested, or improved.
-
 ---
 
 ## Current Focus
