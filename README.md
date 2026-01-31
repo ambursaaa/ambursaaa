@@ -1,33 +1,50 @@
-# Hey, I'm Muhammad
+# Hi, I’m Faisal 
 
-Blockchain developer building on Ethereum and EVM chains.
+I build **apps and websites** with a focus on clean systems, solid fundamentals, and real-world usability.
 
-## What I'm Working On
-
-**Current Focus**: Building production-ready smart contracts on Ethereum
-**Learning**: Advanced DeFi mechanisms and cross-chain token standards  
-**Building**: Secure token contracts and NFT solutions
-
-## Tech Stack
-
-**Smart Contracts**: Solidity • Vyper
-**Chains**: Ethereum • Base • Polygon • Arbitrum
-**Tools**: Hardhat • Foundry • OpenZeppelin • Solady
-**Testing**: Foundry • Hardhat • Ethers.js • Viem
-
-## What I Build
-
-  ∙ ERC-20/721/1155 tokens
-	∙	NFT minting contracts and marketplace integrations
-	∙	Staking and vesting mechanisms
-	∙	Security-focused smart contracts (OpenZeppelin standards, CEI pattern, proper access controls)
-  
-## Let's Connect
-
-[ambursa.dev](https://ambursa.dev)  
-[@aambursaaa](https://x.com/aambursaaa)  
-info@ambursa.dev
+I care about shipping practical software, understanding how things work under the hood, and improving through consistent building.
 
 ---
 
-*Building the decentralized future, one smart contract at a time.*
+## What I Build
+- Web applications & dashboards
+- Backend APIs & data-driven systems
+- Scalable, mobile-friendly websites
+- Experimenting with blockchain and privacy-focused software
+
+---
+
+## Tech Stack
+**Frontend**
+- HTML, CSS, JavaScript
+- React / Next.js
+
+**Backend**
+- Node.js (Express / Nest)
+- Python (FastAPI / Django)
+
+**Databases**
+- PostgreSQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- Docker (basics)
+- Cloud deployment
+
+---
+
+## How I Work
+- Problem-first thinking
+- Clean, readable code
+- Simple architectures that scale
+- Learn fast, iterate faster
+
+Every repository here represents something I’ve built, tested, or improved.
+
+---
+
+## Current Focus
+- Building and shipping consistent projects
+- Strengthening backend and system design skills
+- Exploring privacy-aware and decentralized systems
