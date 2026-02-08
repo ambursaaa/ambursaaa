@@ -1,48 +1,57 @@
-# Hi, I’m Faisal 
+# Hi, I'm Faisal 
 
-I build **apps and websites** with a focus on clean systems, solid fundamentals, and real-world usability.
-
-I care about shipping practical software, understanding how things work under the hood, and improving through consistent building.
-
----
-
-## What I Build
-- Web applications & dashboards
-- Backend APIs & data-driven systems
-- Scalable, mobile-friendly websites
-- Experimenting with blockchain and privacy-focused software
+I build scalable, secure, and maintainable backend systems.  
+My focus is on writing clean APIs, designing solid architectures, and solving real-world problems with code.
 
 ---
 
 ## Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript
-- React / Next.js
 
-**Backend**
-- Node.js (Express / Nest)
-- Python (FastAPI / Django)
+Languages
+- JavaScript (Node.js)
+- Python
+- SQL
 
-**Databases**
+Backend & APIs
+- Node.js (Express, Fastify)
+- RESTful APIs
+- Authentication & Authorization (JWT, OAuth basics)
+
+Databases
 - PostgreSQL
+- MySQL
 - MongoDB
+- Redis (basics)
 
-**Tools**
+DevOps & Tools
 - Git & GitHub
 - Docker (basics)
-- Cloud deployment
+- Linux
+- CI/CD fundamentals
 
 ---
 
-## How I Work
-- Problem-first thinking
-- Clean, readable code
-- Simple architectures that scale
-- Learn fast, iterate faster
+## What I Work On
+- Backend systems for web & mobile apps
+- API design and documentation
+- Database modeling & optimization
+- SaaS-style applications
+- Security-first backend logic
 
 ---
 
-## Current Focus
-- Building and shipping consistent projects
-- Strengthening backend and system design skills
-- Exploring privacy-aware and decentralized systems
+##  Current Focus
+- Building production-ready backend projects
+- Improving system design skills
+- Writing better tests and documentation
+- Exploring blockchain backend integrations
+
+---
+
+##  Let's Connect
+- GitHub: https://github.com/yourusername
+- Email: your@email.com
+
+---
+
+> "Good backend code is invisible — it just works."
