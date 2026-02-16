@@ -1,57 +1,78 @@
-# Hi, I'm Faisal 
+Hi, I'm Faisal Ambursa 👋
 
-I build scalable, secure, and maintainable backend systems.  
-My focus is on writing clean APIs, designing solid architectures, and solving real-world problems with code.
+I build and ship software — apps, websites, and systems — from idea to production.
+
+I’m focused on creating real products, not just writing code.
+
+My work spans backend, web apps, databases, and everything needed to turn an idea into a working product.
+
+---
+
+## What I'm Doing
+
+- Building SaaS products
+- Shipping web apps and tools
+- Turning ideas into production software
+- Designing scalable systems
+- Learning, shipping, and improving daily
+
+I care about:
+
+- Clean architecture  
+- Fast and reliable systems  
+- Simple, useful products  
+- Shipping consistently  
 
 ---
 
 ## Tech Stack
 
-Languages
-- JavaScript (Node.js)
-- Python
-- SQL
+Languages  
+JavaScript • Python • SQL  
 
-Backend & APIs
-- Node.js (Express, Fastify)
-- RESTful APIs
-- Authentication & Authorization (JWT, OAuth basics)
+Development  
+Node.js • REST APIs • Web Apps • Backend Systems  
 
-Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis (basics)
+Databases  
+PostgreSQL • MySQL • MongoDB • Redis  
 
-DevOps & Tools
-- Git & GitHub
-- Docker (basics)
-- Linux
-- CI/CD fundamentals
+Tools  
+Git • Docker • Linux  
 
 ---
 
-## What I Work On
-- Backend systems for web & mobile apps
-- API design and documentation
-- Database modeling & optimization
-- SaaS-style applications
-- Security-first backend logic
+## Builder Mindset
+
+I don’t wait for permission.
+
+I build.  
+I ship.  
+I learn.  
+I repeat.
+
+My goal is to build software that people use and value.
 
 ---
 
-##  Current Focus
-- Building production-ready backend projects
-- Improving system design skills
-- Writing better tests and documentation
-- Exploring blockchain backend integrations
+## Projects
+
+You’ll find here:
+
+- SaaS backends  
+- Fullstack apps  
+- APIs  
+- Tools and experiments  
+- Production-ready systems  
+
+More coming.
 
 ---
 
-##  Let's Connect
-- GitHub: https://github.com/ambursaaa
-- Email: ambursa.faisal@gmail.com
+##  Connect
+
+GitHub: https://github.com/ambursaaa  
+Email: ambursa.faisal@gmail.com  
 
 ---
 
-> "Good backend code is invisible — it just works."
+> Build. Ship. Iterate.
