@@ -48,5 +48,5 @@ Backend services, APIs, infrastructure, and product experiments.
 
 ## Contact
 
-GitHub — https://github.com/YOUR_USERNAME  
-Email — your@email.com
+GitHub — https://github.com/ambursaaa
+Email — ambursa.faisal@gmail.com
