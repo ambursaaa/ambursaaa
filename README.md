@@ -1,78 +1,52 @@
-Hi, I'm Faisal Ambursa 👋
+# Hi, I'm Muhammad Ambursa
 
-I build and ship software — apps, websites, and systems — from idea to production.
+I design and build backend systems, APIs, and infrastructure that move products from idea to production.
 
-I’m focused on creating real products, not just writing code.
-
-My work spans backend, web apps, databases, and everything needed to turn an idea into a working product.
+Focused on reliability, scalability, and shipping real software.
 
 ---
 
-## What I'm Doing
+## Work
 
-- Building SaaS products
-- Shipping web apps and tools
-- Turning ideas into production software
-- Designing scalable systems
-- Learning, shipping, and improving daily
-
-I care about:
-
-- Clean architecture  
-- Fast and reliable systems  
-- Simple, useful products  
-- Shipping consistently  
+- Backend architecture
+- API development
+- System design
+- Data and infrastructure
+- Production systems
 
 ---
 
-## Tech Stack
+## Stack
 
-Languages  
-JavaScript • Python • SQL  
+### Languages
+JavaScript · Python · SQL
 
-Development  
-Node.js • REST APIs • Web Apps • Backend Systems  
+### Backend
+Node.js · REST APIs · Distributed Systems
 
-Databases  
-PostgreSQL • MySQL • MongoDB • Redis  
+### Databases
+PostgreSQL · MySQL · MongoDB · Redis
 
-Tools  
-Git • Docker • Linux  
+### Tools
+Git · Docker · Linux · Nginx
 
 ---
 
-## Builder Mindset
+## Approach
 
-I don’t wait for permission.
-
-I build.  
-I ship.  
-I learn.  
-I repeat.
-
-My goal is to build software that people use and value.
+Build useful things.  
+Ship consistently.  
+Improve systems over time.
 
 ---
 
 ## Projects
 
-You’ll find here:
-
-- SaaS backends  
-- Fullstack apps  
-- APIs  
-- Tools and experiments  
-- Production-ready systems  
-
-More coming.
+Backend services, APIs, infrastructure, and product experiments.
 
 ---
 
-##  Connect
+## Contact
 
-GitHub: https://github.com/ambursaaa  
-Email: ambursa.faisal@gmail.com  
-
----
-
-> Build. Ship. Iterate.
+GitHub — https://github.com/YOUR_USERNAME  
+Email — your@email.com
